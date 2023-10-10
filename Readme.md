@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Student of BE Software Engineering at NUST Pakistan<br>- Currently Working on multiple freelancing projects<br>- My Skills inlude programming languages like <br>           + Java<br>           + C++<br>           + Python<br>           + MySql<br>           + Kotlin<br>           + Javascript<br>           + Soladity<br>           + Php<br>- Currently I'm working on Machine learning and BlockChain Projects<br><br>  
+- Student of BE Software Engineering at NUST Pakistan<br>- Worked on multiple freelancing projects<br>- My Skills inlude programming languages like <br>           + Java<br>           + C++<br>           + Python<br>           + MySql<br>           + Kotlin<br>           + Javascript<br>           + Soladity<br>           + Php<br>- Currently I'm working on Machine learning and BlockChain Projects<br><br>  
 
 
 # 💻 Tech Stack:
